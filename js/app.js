@@ -4,3 +4,4 @@ let valor2 = valor1++;
 document.write(valor2);
 document.write(" ");
 document.write(valor1);
+kjcjkbkjbasjkaslsakbkjbjabl
